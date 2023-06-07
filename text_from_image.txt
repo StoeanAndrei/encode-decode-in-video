@@ -1,0 +1,18 @@
+Flytrex, a maker of drone tech for the consumer market, has launched a new drone designed to deliver
+items including -- if the promotional photos are an accurate representation -- a cold beer. Note to
+editors: | think | finally get what the drone hype is all about.
+
+fytroxshy
+
+"Delivery is one of the possible things you can do with Sky, and it's the thing that makes the
+most noise," Flytrex co-founder Yariv Bash tells me over the phone when | bring up the
+photo, "but we're also talking about a cloud-connected drone with web API.”
+
+Flytrex has been around for about a year and this is its first foray into ready-to-fly drone
+hardware. Bash is also a founder of SpacelL, an Israeli nonprofit that's competing in the
+Google Lunar X Prize and has raised more than $50M. He and a friend began playing
+around with drones and had the idea of trying to gamify the experience. They came up with
+an idea to create a kind of black box for drones. "You could use it to upload data, see
+where it's been, what the altitude was,” says Bash. "There wasn't anything on the market
+that you could just plug into your drone."
+
